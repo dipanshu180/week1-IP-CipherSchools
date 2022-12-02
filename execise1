@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>My Blogs</h1>
+    
+    <br>
+    <br>
+    <h2>My blog Post 1</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor vitae eaque perferendis aliquid quos laboriosam possimus neque totam ab enim, et suscipit, dicta adipisci saepe! Iste temporibus illum laboriosam corrupti perferendis. Minima quia error blanditiis ab. Omnis, dolores commodi error rerum voluptas obcaecati cum enim porro explicabo, quod aspernatur culpa quasi cumque eos molestias aliquid quam deleniti architecto fugiat similique necessitatibus. Animi accusantium praesentium, soluta eaque, explicabo dolore libero maxime maiores recusandae totam repudiandae tenetur sed facere autem, iste aperiam excepturi dolores. Quia corporis recusandae in et necessitatibus temporibus est laboriosam incidunt, explicabo sed mollitia libero omnis veniam blanditiis repellat obcaecati sit deleniti repudiandae maiores distinctio nam! Eum minima perferendis, repudiandae tempora officiis magni saepe commodi obcaecati, velit soluta eligendi fugiat iure ad illo iste eos earum, labore doloribus nesciunt sunt! Quidem cupiditate, ab illum numquam fuga dolore assumenda magni explicabo neque aliquid ex, error alias eius soluta ipsum doloremque!</p>
+    <br><br>
+    <h2>My Blog Post 2</h2>
+    <p>
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Non deserunt in nisi at delectus laudantium repudiandae dicta quis? Adipisci accusamus beatae autem magnam aperiam nisi perferendis. Quisquam inventore soluta commodi veritatis expedita numquam, debitis aliquid a eos nam minus sequi sint delectus magnam voluptatem natus atque vitae. Sunt officia deserunt consequuntur nulla voluptate autem doloremque eveniet facere iure nisi obcaecati, officiis iusto debitis necessitatibus saepe, consequatur ipsa! Ipsam dignissimos eveniet nesciunt? Veritatis excepturi, recusandae numquam eos, itaque maiores autem tenetur deserunt at aperiam placeat, voluptate delectus hic aliquid tempora earum fuga molestiae adipisci neque. Minima rem molestiae nam vero! Earum similique temporibus doloribus? Corrupti, ducimus sequi distinctio, quaerat placeat in amet ratione atque quia saepe hic accusamus veniam facilis mollitia. Dolor sunt asperiores vitae atque, nihil suscipit alias minus porro illo reprehenderit eligendi ab. Libero maxime consectetur modi iusto, necessitatibus quos ipsa dicta laboriosam provident et praesentium obcaecati officia ut!
+    </p>
+
+</body>
+</html>
