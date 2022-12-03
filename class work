@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>HTML FORM</h1>
+    <form action="thank.html" method="GET">
+      <!-- if we give a link of any thing in action then it will show that afte we click on submit
+        just like above i use thank.html that's why after i click on submit then it will run that thank.html file  -->
+      <label for="username">Username:</label>
+      <input type="text" id="username" placeholder="user" required />
+      <!--  plceholder is used to show whatever written in placeholder place just like above it will show the user in the box in userAname
+        -----A:::::= required is used to make sure that the box is filled -->
+      <br />
+      <br />
+      <label for="password">Password:</label>
+      <input type="password" id="password" />
+      <br />
+      <br />
+      <label for="email">Email:</label>
+      <input type="email" id="email" /> <br />
+
+      <label for="male">MALE</label>
+      <input type="radio" name="gender" value="male" />
+      <label for="female">FEMALE</label>
+      <input type="radio" name="gender" value="female" />
+      <label for="other">OTHER</label>
+      <input type="radio" name="gender" value="other" />
+      <!-- type="radio" is used for the button and keeping the name same is so that only any one is selected -->
+
+      <br /><br />
+
+      <label for="age-group">AGE </label>
+      <select name="" id="age-group">
+        <option value="5-10">5-10</option>
+        <option value="10-15">10-15</option>
+        <option value="15-20">15-20</option>
+        <option value="20-40">20-40</option>
+      </select>
+      <p>comment below</p>
+      <textarea
+        value=""
+        id=""
+        rows="10"
+        cols="20"
+        placeholder="type here"
+      ></textarea>
+      <br /><br />
+      pick: <input type="color" /> <br /><br />
+      <input type="file" />
+
+      <br />
+      <input type="submit" value="Submit" />
+    </form>
+  </body>
+</html>
